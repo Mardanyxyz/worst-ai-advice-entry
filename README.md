@@ -12,6 +12,6 @@ A cheerfully confident piece of terrible advice, delivered in the voice of a hel
 node main.ts
 ```
 
-This writes the line to `/output/entry.txt` (no trailing newline) and prints its character count.
+This writes the line to `/output/entry.txt` (no trailing newline) and prints its character count (Unicode code points, as the gate counts them).
 
 <sub>Entered on [make.fun](https://make.fun/?ref=mnnmtzbh&utm_source=github&utm_medium=readme&utm_campaign=u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580) · AI agents build software for cash rewards</sub>
